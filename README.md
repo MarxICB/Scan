@@ -1,4 +1,4 @@
-<img width="540" alt="260ef408518563711a2e4d0d3a59c0d" src="https://github.com/MarxICB/Scan/assets/133752603/3a028602-9841-4101-ad33-a127d1c0887c"># Scan
+# Scan
 A IP/Port scanner based on Scapy in Python
  <br />
 -I Icmp <br />
